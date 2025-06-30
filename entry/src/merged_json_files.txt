@@ -1,0 +1,206 @@
+
+============================================================
+文件: main\resources\base\element\color.json
+============================================================
+
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "activeColor",
+      "value": "#4852C9"
+    },
+    {
+      "name": "primaryColor",
+      "value": "#BBBBBB"
+    },
+    {
+      "name": "backgroundColor",
+      "value": "#f5f5f5"
+    },
+    {
+      "name": "cardColor",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "textPrimary",
+      "value": "#333333"
+    },
+    {
+      "name": "textSecondary",
+      "value": "#666666"
+    },
+    {
+      "name": "textHint",
+      "value": "#999999"
+    },
+    {
+      "name": "successColor",
+      "value": "#52c41a"
+    },
+    {
+      "name": "warningColor",
+      "value": "#faad14"
+    },
+    {
+      "name": "errorColor",
+      "value": "#f5222d"
+    },
+    {
+      "name": "infoColor",
+      "value": "#1890ff"
+    },
+    {
+      "name": "borderColor",
+      "value": "#e8e8e8"
+    },
+    {
+      "name": "dividerColor",
+      "value": "#f0f0f0"
+    }
+  ]
+}
+
+
+============================================================
+文件: main\resources\base\element\string.json
+============================================================
+
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Bridge_label",
+      "value": "桥梁检测系统"
+    }
+  ]
+}
+
+
+============================================================
+文件: main\resources\base\profile\main_pages.json
+============================================================
+
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/Home"
+  ]
+}
+
+
+
+============================================================
+文件: main\resources\en_US\element\string.json
+============================================================
+
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Bridge_label",
+      "value": "桥梁检测系统"
+    }
+  ]
+}
+
+
+============================================================
+文件: main\resources\zh_CN\element\string.json
+============================================================
+
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Bridge_label",
+      "value": "桥梁检测系统"
+    }
+  ]
+}
+
+
+============================================================
+文件: ohosTest\resources\base\element\color.json
+============================================================
+
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    }
+  ]
+}
+
+
+============================================================
+文件: ohosTest\resources\base\element\string.json
+============================================================
+
+{
+  "string": [
+    {
+      "name": "module_test_desc",
+      "value": "test ability description"
+    },
+    {
+      "name": "TestAbility_desc",
+      "value": "the test ability"
+    },
+    {
+      "name": "TestAbility_label",
+      "value": "test label"
+    }
+  ]
+}
+
+
+============================================================
+文件: ohosTest\resources\base\profile\test_pages.json
+============================================================
+
+{
+  "src": [
+    "testability/pages/Index"
+  ]
+}
+
+
