@@ -1,0 +1,10 @@
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('1', '索力');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('10', '倾斜');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('2', '应力');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('3', '位移');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('4', '振动');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('5', '温度');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('6', '风速');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('7', '车辆荷载');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('8', '腐蚀');
+INSERT INTO `t_option_detectioin_type`(`detection_type`, `detection_name`) VALUES ('9', '裂缝');
